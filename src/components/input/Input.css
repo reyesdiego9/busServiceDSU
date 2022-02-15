@@ -1,0 +1,15 @@
+label {
+  display: block;
+}
+
+input {
+  height: 30px;
+  border-radius: 10px;
+  color: darkgray;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.inputForm {
+  padding: 10px 0;
+}
